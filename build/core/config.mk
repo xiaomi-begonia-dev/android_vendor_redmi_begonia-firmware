@@ -1,1 +1,1 @@
--include vendor/xiaomi/begonia-firmware/config.mk
+-include vendor/redmi/begonia-firmware/config.mk
